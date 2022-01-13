@@ -1,0 +1,14 @@
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.exe
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.deps.json
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.runtimeconfig.json
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.runtimeconfig.dev.json
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.dll
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.pdb
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.AssemblyInfo.cs
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.dll
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.pdb
+C:\Users\Adam\TrueCoders\repos\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.genruntimeconfig.cache
